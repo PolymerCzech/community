@@ -14,7 +14,7 @@ Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).
 
 ## Polymer Project
 
-Polymer Project je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
+Polymer Project je open-source projekt veden týmem frontendových vývojářů v rámci organizace Chrome ve společnosti Google.
 
 Cílem projektu je vytvořit knihovny, nástroje a vzory, které pomůžou vývojářům vytvářet moderní Progressive Web Apps s plným využitím špičkových funkcí platformy jako jsou Web Components, Service Workers a HTTP/2.
 
