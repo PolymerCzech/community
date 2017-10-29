@@ -10,7 +10,7 @@ Nepotřebujeme SSR (Server Side Rendering), např. PHP, React, Vue. Kombinace CS
 
 ## Polymer Project
 
-Polymer Project je open-source projekt veden týmem frontendových vývojářů v rámci organizace Chrome ve společnosti Google.
+[Polymer Project](https://www.polymer-project.org) je open-source projekt veden týmem frontendových vývojářů v rámci organizace Chrome ve společnosti Google.
 
 Cílem projektu je vytvořit knihovny, nástroje a vzory, které pomůžou vývojářům vytvářet moderní Progressive Web Apps s plným využitím špičkových funkcí platformy jako jsou Web Components, Service Workers a HTTP/2.
 
@@ -37,3 +37,9 @@ Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji 
 
 - [twitter.com/Polymeristi](https://twitter.com/Polymeristi)
 - [facebook.com/Polymeristi](https://www.facebook.com/polymeristi)
+
+## Zdroje
+
+Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
+
+Vyzkoušet si Polymer elementy můžete na adrese [Polymer Playgrounds](https://github.com/StartPolymer/polymer-playgrounds).
