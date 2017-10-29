@@ -36,7 +36,7 @@ Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji 
 ## Sociální sítě
 
 - [twitter.com/Polymeristi](https://twitter.com/Polymeristi)
-- [facebook.com/Polymeristi](https://www.facebook.com/polymeristi)
+- [facebook.com/Polymeristi](https://www.facebook.com/Polymeristi)
 
 ## Zdroje
 
