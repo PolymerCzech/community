@@ -2,7 +2,7 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React), které zpomalují načtení (žerou data, výkon i baterii) a omezují vývoj frontendu.
+Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React, atd.), které zpomalují načtení (žerou data, výkon i baterii) a omezují vývoj frontendu.
 
 Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí Shadow DOM.
 
