@@ -25,11 +25,11 @@ Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji 
 ### Pravidla diskuse
 
 1. Diskutujeme hlavně o projektu Polymer a na téma [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
-2. Než se zeptáte, vyhledáváním si zjistěte, zda už se to tady neřešilo.
+2. Než se zeptáte, vyhledáváním si zjistěte, zda už se to neřešilo.
    - [Slack Search](https://polymer.slack.com/messages/C790AMQKH/search/redux/)
    - [G+ Community Search](https://plus.google.com/u/0/communities/100749807415316706653/s/redux)
    - [Facebook Group Search](https://facebook.com/groups/polymeristi/search/?query=redux)
-3. Neladíme tady chyby. Bugy patří do Github issues, technické zádrhele zase na StackOverflow.
+3. Neladíme zde chyby. Bugy patří do Github issues, technické zádrhele zase na StackOverflow.
 4. Diskutujeme věcně. Všechny názory podepíráme argumenty.
 5. Diskutujeme slušně. Žádné osobní útoky. Nováčkům se nesmějeme, naopak je vřele vítáme.
 
