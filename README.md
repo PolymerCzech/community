@@ -6,13 +6,13 @@ Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, Re
 
 Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí Shadow DOM.
 
-Nepotřebujeme SSR (Server Side Rendering), např. PHP, React, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení frontendu. Komunikace s backendem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
+Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení frontendu. Komunikace s backendem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
 ## Polymer Project
 
-[Polymer Project](https://www.polymer-project.org) je open-source projekt veden týmem frontendových vývojářů v rámci organizace Chrome ve společnosti Google.
+[Polymer Project](https://github.com/UseWebPlatform/motto-UseWebPlatform#10-polymer-project) je open-source projekt veden týmem frontendových vývojářů v rámci organizace Chrome ve společnosti Google.
 
-Cílem projektu je vytvořit knihovny, nástroje a vývojářské vzory, které pomůžou vývojářům vytvářet moderní Progressive Web Apps s plným využitím špičkových funkcí platformy jako jsou Web Components, Service Workers a HTTP/2.
+Cílem projektu je vytvořit knihovny, nástroje a vývojářské vzory, které pomůžou vývojářům vytvářet moderní [PWA (Progressive Web Apps)](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) aplikace s plným využitím špičkových funkcí platformy jako jsou [Web Components](https://github.com/UseWebPlatform/motto-UseWebPlatform#2-web-components), [Service Workers](https://github.com/UseWebPlatform/motto-UseWebPlatform#4-service-workers-web-workers) a [HTTP/2](https://github.com/UseWebPlatform/motto-UseWebPlatform#3-http2--server-push--html-imports--es6-modules).
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
