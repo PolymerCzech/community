@@ -42,4 +42,4 @@ Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji 
 
 Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
-Vyzkoušet si Polymer elementy můžete na adrese [Polymer Playgrounds](https://github.com/StartPolymer/playgrounds).
+Vyzkoušet si Polymer elementy můžete na adrese [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds).
