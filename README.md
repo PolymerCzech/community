@@ -19,7 +19,7 @@ Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji 
 S Polymerem je již vytvořeno několik webových stránek a aplikací, např. nový Youtube, Google Earth, Google Play Music, Google Sites, Chrome PDF viewer, Chrome Settings, Electronic Arts, IBM Bluemix console, atd..
 
 - [Seznam webových stránek a aplikací vytvořených s Polymerem.](https://github.com/abdonrd/PolymerProjects)
-- [Polymer @ YouTube - The YouTube site is comprised of over 400 web components.](https://www.youtube.com/watch?v=tNulrEbTQf8)
+- [Polymer @ YouTube - Stránka YouTube se skládá z více než 400 webových komponent.](https://www.youtube.com/watch?v=tNulrEbTQf8)
 
 ## Místa kde diskutujeme
 
