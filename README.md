@@ -30,7 +30,7 @@ Polymer projekt vyvíjí [PRPL server](https://github.com/Polymer/prpl-server-no
 
 - [Solving SEO with Headless Chrome (Polymer Summit 2017)](https://www.youtube.com/watch?v=ydThUDlBDfc&index=21&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
 - [Playground pro Puppeteer](https://try-puppeteer.appspot.com)
-- [Rendertron - headless rendering service.](https://render-tron.appspot.com)
+- [Rendertron - headless rendering service](https://render-tron.appspot.com)
 
 ## Místa kde diskutujeme
 
