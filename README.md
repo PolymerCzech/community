@@ -24,6 +24,17 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [
 - [Seznam webových stránek a aplikací vytvořených s Polymerem.](https://github.com/abdonrd/PolymerProjects)
 - [Polymer @ YouTube - Stránka YouTube se skládá z více než 400 webových komponent.](https://www.youtube.com/watch?v=tNulrEbTQf8)
 
+### Vývojářské vzory
+
+- [PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl)
+  - [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
+- [UniFlow - uni-directional data flow + maintains state of entire application](https://github.com/google/uniflow-polymer)
+  - [Difference between UniFlow and Redux](https://github.com/google/uniflow-polymer/issues/9)
+
+### Hot Reloading
+
+- TBD
+
 ### Jak na SEO?
 
 Polymer projekt vyvíjí [PRPL server](https://github.com/Polymer/prpl-server-node), který umí search bótům podstrčit statickou stránku (bez JavaScriptu) vygenerovanou pomocí [Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome).
