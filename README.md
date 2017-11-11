@@ -18,7 +18,7 @@ Cílem projektu je vytvořit knihovny, nástroje a vývojářské vzory, které 
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
-S Polymerem je již vytvořeno několik webových stránek a aplikací, např. nový Youtube, Google Earth, Google Play Music, Google Sites, Chrome PDF viewer, Chrome Settings, Electronic Arts, IBM Bluemix console, atd..
+S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [nový Youtube](https://www.youtube.com/new), [Google Earth](https://www.google.com/earth/), Google Play Music, Google Sites, Chrome PDF viewer, Chrome Settings, Electronic Arts, IBM Bluemix console, atd..
 
 - [Seznam webových stránek a aplikací vytvořených s Polymerem.](https://github.com/abdonrd/PolymerProjects)
 - [Polymer @ YouTube - Stránka YouTube se skládá z více než 400 webových komponent.](https://www.youtube.com/watch?v=tNulrEbTQf8)
