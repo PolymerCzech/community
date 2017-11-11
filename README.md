@@ -23,6 +23,14 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. n
 - [Seznam webových stránek a aplikací vytvořených s Polymerem.](https://github.com/abdonrd/PolymerProjects)
 - [Polymer @ YouTube - Stránka YouTube se skládá z více než 400 webových komponent.](https://www.youtube.com/watch?v=tNulrEbTQf8)
 
+### Jak na SEO?
+
+Polymer projekt vyvíjí [PRPL server](https://github.com/Polymer/prpl-server-node), který umí search bótům podstrčit statickou stránku (bez JavaScriptu) vygenerovanou pomocí [Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome).
+
+- [Solving SEO with Headless Chrome (Polymer Summit 2017)](https://www.youtube.com/watch?v=ydThUDlBDfc&index=21&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
+- [Playground pro Puppeteer](https://try-puppeteer.appspot.com)
+- [Rendertron - headless rendering service.](https://render-tron.appspot.com)
+
 ## Místa kde diskutujeme
 
 - [#polymeristi @ polymer.slack.com](https://polymer.slack.com) - [registrace zde](https://polymer-slack.herokuapp.com)
