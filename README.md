@@ -47,4 +47,4 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. n
 
 Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
-Vyzkoušejte si Polymer na hřišti v online editoru - [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds).
+Vyzkoušejte si Polymer na hřišti v online editoru - [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
