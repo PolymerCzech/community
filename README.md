@@ -35,15 +35,13 @@ Více informací v sekci [Patterns na stránce Awesome Polymer](https://github.c
 
 ### Hot Reloading
 
-- TBD
+- [StartPolymer Toolbox](https://github.com/StartPolymer/toolbox) - obsahuje tool pro Hot Reloading
 
 ### Jak na SEO?
 
 Polymer projekt vyvíjí [PRPL server](https://github.com/Polymer/prpl-server-node), který umí search bótům podstrčit statickou stránku (bez JavaScriptu) vygenerovanou pomocí [Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome).
 
-- [Solving SEO with Headless Chrome (Polymer Summit 2017)](https://www.youtube.com/watch?v=ydThUDlBDfc&index=21&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi)
-- [Playground pro Puppeteer](https://try-puppeteer.appspot.com)
-- [Rendertron - headless rendering service](https://render-tron.appspot.com)
+Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](https://github.com/StartPolymer/awesome-polymer#polymer-is-seo-friendly).
 
 ## Místa kde diskutujeme
 
