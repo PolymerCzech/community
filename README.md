@@ -31,6 +31,8 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [
 - [UniFlow - uni-directional data flow + maintains state of entire application](https://github.com/google/uniflow-polymer)
   - [Difference between UniFlow and Redux](https://github.com/google/uniflow-polymer/issues/9)
 
+Více informací v sekci [Patterns na stránce Awesome Polymer](https://github.com/StartPolymer/awesome-polymer/blob/master/README.md#patterns).
+
 ### Hot Reloading
 
 - TBD
