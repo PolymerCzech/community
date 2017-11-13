@@ -1,4 +1,4 @@
-# Polymeristi - tvoříme lepší web zítřka
+# Polymeristi - tvoříme lepší web zítřka (CZ & SK)
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
