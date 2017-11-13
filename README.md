@@ -59,11 +59,17 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 3. Neladíme zde chyby. Bugy patří do Github issues, technické zádrhele zase na StackOverflow.
 4. Diskutujeme věcně. Všechny názory podepíráme argumenty.
 5. Diskutujeme slušně. Žádné osobní útoky. Nováčkům se nesmějeme, naopak je vřele vítáme.
+6. **Nabídky práce** patří na stránku [Polymeristi/prace](https://github.com/Polymeristi/prace).
+7. Příspěvky s vypnutým komentováním budou smazány.
 
 ## Novinky, události, srazy
 
 - [twitter.com/Polymeristi](https://twitter.com/Polymeristi)
 - [facebook.com/Polymeristi](https://www.facebook.com/Polymeristi)
+
+## Nabídky práce
+
+Nabídky práce jsou na této stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
 
 ## Zdroje
 
