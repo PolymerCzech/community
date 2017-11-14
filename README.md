@@ -2,14 +2,22 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
+1. Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
 (žerou data, výkon i baterii) a omezují vývoj front-endu. Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).
 
-Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/).
+2. Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/). Jednotlivé elementy pak stahujeme (jen jednou) na základě dané URL, kde jsou třeba pro render na straně klienta. Hlídáme velikost stažených dat do **50 KB** per URL, což nám zajišťuje rychlé načtení stránky na mobilních 3G sítích.
 
-Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
+3. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
-Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+4. Žijeme na sociální síti [GitHub](https://github.com), kde publikujeme své znovu použitelné custom elementy pro ostatní. Notifikace ze sítě hlídáme pomocí aplikace [Octobox](https://octobox.io).
+
+5. Dodržujeme checklist pro custom elementy - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
+
+6. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) dle checklistu - [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
+
+7. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+
+8. Pro práci nám vyhovuje [Chromebook](https://github.com/UseWebPlatform/chromebook) (méně náročným :wink:), neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
 
 ## Co je to Polymer Project?
 
