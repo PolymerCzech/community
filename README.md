@@ -78,7 +78,7 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 
 ## Nabídky práce
 
-Nabídky práce sledujeme přes button Watch na stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
+Nabídky práce sledujeme přes Watch button na stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
 
 ## Zdroje
 
