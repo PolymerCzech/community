@@ -17,7 +17,7 @@
 
 7. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
 
-8. Pro práci nám vyhovuje [Chromebook](https://github.com/UseWebPlatform/chromebook) (méně náročným :wink:), neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
+8. Pro práci nám vyhovuje [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) (méně náročným :wink:), neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
 
 ## Co je to Polymer Project?
 
@@ -85,3 +85,7 @@ Nabídky práce sledujeme přes button Watch na stránce [Polymeristi/prace](htt
 Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
 Vyzkoušejte si Polymer na hřišti v online editoru - [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
+
+## FAQ :question:
+
+- TBD
