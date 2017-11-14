@@ -15,7 +15,7 @@
 
 6. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
 
-7. Žijeme na sociální síti [GitHub](https://github.com), kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace ze sítě hlídáme pomocí aplikace [Octobox](https://octobox.io).
+7. Jsme na sociální síti [GitHub](https://github.com), kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace ze sítě hlídáme pomocí aplikace [Octobox](https://octobox.io).
 
 8. Vyhovuje nám [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) (méně náročným :wink:), neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
 
