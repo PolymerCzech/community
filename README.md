@@ -61,6 +61,7 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 5. Diskutujeme slušně. Žádné osobní útoky. Nováčkům se nesmějeme, naopak je vřele vítáme.
 6. **Nabídky práce** patří na stránku [Polymeristi/prace](https://github.com/Polymeristi/prace).
 7. Příspěvky s vypnutým komentováním budou smazány.
+8. V diskusi si tykáme.
 
 ## Novinky, události, srazy
 
@@ -69,7 +70,7 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 
 ## Nabídky práce
 
-Nabídky práce jsou na stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
+Nabídky práce sledujeme přes button Watch na stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
 
 ## Zdroje
 
