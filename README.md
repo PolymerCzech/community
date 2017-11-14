@@ -9,13 +9,13 @@
 
 3. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
-4. Žijeme na sociální síti [GitHub](https://github.com), kde publikujeme své znovu použitelné custom elementy pro ostatní. Notifikace ze sítě hlídáme pomocí aplikace [Octobox](https://octobox.io).
+4. Dodržujeme checklist pro custom elementy - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
 
-5. Dodržujeme checklist pro custom elementy - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
+5. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) dle checklistu - [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
 
-6. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) dle checklistu - [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
+6. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
 
-7. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+7. Žijeme na sociální síti [GitHub](https://github.com), kde publikujeme své znovu použitelné custom elementy pro ostatní. Notifikace ze sítě hlídáme pomocí aplikace [Octobox](https://octobox.io).
 
 8. Vyhovuje nám [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) (méně náročným :wink:), neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
 
