@@ -84,7 +84,7 @@ Nabídky práce podáváme a hlídáme (přes Watch button) na stránce [Polymer
 
 Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
-Hrajeme si s Polymerem v online editoru na stránce [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
+Hrajeme si s Polymerem v online editoru na stránce [StartPolymer/playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
 
 ## FAQ :question:
 
