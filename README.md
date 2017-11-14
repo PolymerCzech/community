@@ -78,13 +78,13 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 
 ## Nabídky práce
 
-Nabídky práce podáváme a hlídáme (přes Watch button) zde [Polymeristi/prace](https://github.com/Polymeristi/prace).
+Nabídky práce podáváme a hlídáme (přes Watch button) na stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
 
 ## Zdroje
 
 Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
-Hrajeme si s Polymerem v online editoru zde [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
+Hrajeme si s Polymerem v online editoru na stránce [StartPolymer Playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
 
 ## FAQ :question:
 
