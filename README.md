@@ -2,6 +2,20 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
+- [Naše desatero](#naše-desatero)
+- [Co je to Polymer Project?](#co-je-to-polymer-project)
+  - [Architektonické vzory](#architektonické-vzory)
+  - [Hot Reloading](#hot-reloading)
+  - [Jak na SEO?](#jak-na-seo)
+- [Místa kde diskutujeme](#místa-kde-diskutujeme)
+  - [Pravidla diskuse](#pravidla-diskuse)
+- [Novinky, události, srazy](#novinky-události-srazy)
+- [Nabídky práce](#nabídky-práce)
+- [Zdroje](#zdroje)
+- [FAQ](#faq)
+
+## Naše desatero
+
 1. Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
 (žerou data, výkon i baterii) a omezují vývoj front-endu. Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).
 
@@ -9,15 +23,19 @@
 
 3. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
-4. Dodržujeme checklist pro custom elementy - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
+4. Programujeme v čistém jazyce JavaScript a [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) je náš hlavní framework. Jazyk TypeScript a jíné preprocessory nepotřebujeme (máme statické typy na úrovni elementu), jen nám narušují znova použitelnost custom elementů.
 
-5. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) dle checklistu - [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
+5. Dodržujeme metodu [progressive enhancement](https://www.zdrojak.cz/clanky/graceful-degradation-vs-progressive-enhancement/) za pomoci [polyfillů](https://www.polymer-project.org/2.0/docs/polyfills) a [pravidla přístupného webu](http://www.pravidla-pristupnosti.cz), s kterýma nám pomáhají již vytvořené Polymer komponenty.
 
-6. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+6. Dodržujeme checklist pro custom elementy - [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
 
-7. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
+7. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) dle checklistu - [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
 
-8. Vyhovuje nám [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) :wink:, neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
+8. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+
+9. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
+
+10. Vyhovuje nám [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) :wink:, neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
 
 ## Co je to Polymer Project?
 
@@ -86,6 +104,6 @@ Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-
 
 Hrajeme si s Polymerem v online editoru na stránce [StartPolymer/playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
 
-## FAQ :question:
+## FAQ
 
 - TBD
