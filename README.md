@@ -34,7 +34,7 @@ Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebP
 
 8. Píšeme [dokumentaci](https://www.polymer-project.org/2.0/docs/tools/documentation) a [testy pomocí Web Component Tester](https://www.polymer-project.org/2.0/docs/tools/tests) pro každý znovu použitelný custom element, který žije ve vlastním git repozitáři s landing a demo stránkou.
 
-9. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
+9. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Tyto elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
 
 10. Vyhovuje nám [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) :wink:, neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
 
