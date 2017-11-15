@@ -5,7 +5,7 @@
 1. Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
 (žerou data, výkon i baterii) a omezují vývoj front-endu. Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).
 
-2. Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/). Jednotlivé elementy pak stahujeme (jen jednou) na základě dané URL, kde jsou třeba pro render na straně klienta. Hlídáme velikost stažených dat do **50 KB** per URL, což nám zajišťuje rychlé načtení stránky na mobilních 3G sítích.
+2. Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/). Jednotlivé elementy pak stahujeme (jen jednou) na základě dané URL, kde jsou třeba pro render na straně klienta. Hlídáme velikost stažených dat do **50 KB** per URL, což nám zajišťuje rychlé načtení stránky na mobilních 3G sítích. Viz [PRPL-50](https://github.com/UseWebPlatform/motto-UseWebPlatform#prpl-50).
 
 3. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
