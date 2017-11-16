@@ -25,7 +25,7 @@
 
 4. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
-5. Programujeme v čistém jazyce [JavaScript ES6](http://es6-features.org). Jazyk TypeScript a jíné preprocessory nepotřebujeme, máme statické typy na úrovni custom elementů. Nepotřebujeme CSS preprocessory (SASS, LESS, Stylus), neboť máme [CSS Properties](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties) a [CSS Mixins](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties#use-custom-css-mixins).
+5. Programujeme v čistém jazyce [JavaScript ES6](http://es6-features.org). Jazyk TypeScript a jíné JS preprocessory nepotřebujeme, máme statické typy na úrovni custom elementů. Nepotřebujeme CSS preprocessory (SASS, LESS, Stylus), neboť máme [CSS Properties](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties) a [CSS Mixins](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties#use-custom-css-mixins).
 
 6. Dodržujeme metodu [progressive enhancement](https://www.zdrojak.cz/clanky/graceful-degradation-vs-progressive-enhancement/) za pomoci [polyfillů](https://www.polymer-project.org/2.0/docs/polyfills) a [pravidla přístupného webu](http://www.pravidla-pristupnosti.cz), s kterýma nám pomáhají již vytvořené Polymer komponenty.
 
