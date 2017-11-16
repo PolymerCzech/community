@@ -16,27 +16,26 @@
 
 ## Naše desatero
 
-1. Tvoříme lepší web bez těžkých frameworků (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
-(žerou data, výkon i baterii) a omezují vývoj front-endu. Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).  
-Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+1. Tvoříme lepší web postavený na nových W3C standardech [Custom Elements v1](https://developers.google.com/web/fundamentals/web-components/customelements) a [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom). W3C [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) je náš framework. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
 
-2. Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/). Jednotlivé elementy pak stahujeme (jen jednou) na základě dané URL, kde jsou třeba pro render na straně klienta. Hlídáme velikost stažených dat do **50 KB** per URL, což nám zajišťuje rychlé načtení stránky na mobilních 3G sítích, viz [PRPL-50](https://github.com/UseWebPlatform/motto-UseWebPlatform#prpl-50).
+2. Nepotřebujeme těžké frameworky (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
+(žerou data, výkon i baterii) a omezují vývoj front-endu. Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).
 
-3. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
+3. Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/). Jednotlivé elementy pak stahujeme (jen jednou) na základě dané URL, kde jsou třeba pro render na straně klienta. Hlídáme velikost stažených dat do **50 KB** per URL, což nám zajišťuje rychlé načtení stránky na mobilních 3G sítích, viz [PRPL-50](https://github.com/UseWebPlatform/motto-UseWebPlatform#prpl-50).
 
-4. Programujeme v čistém jazyce [JavaScript ES6](http://es6-features.org) a [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) je náš hlavní framework. Jazyk TypeScript a jíné preprocessory nepotřebujeme, máme statické typy na úrovni custom elementů.
+4. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
 
-5. Dodržujeme metodu [progressive enhancement](https://www.zdrojak.cz/clanky/graceful-degradation-vs-progressive-enhancement/) za pomoci [polyfillů](https://www.polymer-project.org/2.0/docs/polyfills) a [pravidla přístupného webu](http://www.pravidla-pristupnosti.cz), s kterýma nám pomáhají již vytvořené Polymer komponenty.
+5. Programujeme v čistém jazyce [JavaScript ES6](http://es6-features.org). Jazyk TypeScript a jíné preprocessory nepotřebujeme, máme statické typy na úrovni custom elementů. Nepotřebujeme CSS preprocessory (SASS, LESS, Stylus), neboť máme [CSS Properties](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties) a [CSS Mixins](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties#use-custom-css-mixins).
 
-6. Dodržujeme checklist pro custom elementy [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
+6. Dodržujeme metodu [progressive enhancement](https://www.zdrojak.cz/clanky/graceful-degradation-vs-progressive-enhancement/) za pomoci [polyfillů](https://www.polymer-project.org/2.0/docs/polyfills) a [pravidla přístupného webu](http://www.pravidla-pristupnosti.cz), s kterýma nám pomáhají již vytvořené Polymer komponenty.
 
-7. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) dle checklistu [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
+7. Dodržujeme checklist pro custom elementy [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
 
-8. Píšeme [dokumentaci](https://www.polymer-project.org/2.0/docs/tools/documentation) a [testy pomocí Web Component Tester](https://www.polymer-project.org/2.0/docs/tools/tests) pro každý znovu použitelný custom element, který žije ve vlastním git repozitáři s landing a demo stránkou.
+8. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) s architekturou [App Shell](https://developers.google.com/web/fundamentals/architecture/app-shell) dle checklistu [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
 
-9. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Tyto elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
+9. Píšeme [dokumentaci](https://www.polymer-project.org/2.0/docs/tools/documentation) a [testy pomocí Web Component Tester](https://www.polymer-project.org/2.0/docs/tools/tests) pro každý znovu použitelný custom element, který žije ve vlastním git repozitáři s landing a demo stránkou.
 
-10. Vyhovuje nám [Chromebook as development machine](https://github.com/UseWebPlatform/chromebook) :wink:, neboť tvoříme webové aplikace pro webovou platformu s ohledem na zabezpečení proti útokům.
+10. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Tyto elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
 
 ## Co je to Polymer Project?
 
