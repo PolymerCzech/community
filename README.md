@@ -2,7 +2,7 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-- [Naše desatero](#naše-desatero)
+- [Desatero pro lepší web](#desatero-pro-lepší-web)
 - [Co je to Polymer Project?](#co-je-to-polymer-project)
   - [Architektonické vzory](#architektonické-vzory)
   - [Hot Reloading](#hot-reloading)
@@ -14,28 +14,9 @@
 - [Zdroje](#zdroje)
 - [FAQ](#faq)
 
-## Naše desatero
+## Desatero pro lepší web
 
-1. Tvoříme lepší web postavený na nových W3C standardech [Custom Elements v1](https://developers.google.com/web/fundamentals/web-components/customelements) a [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom). W3C [DOM](https://en.wikipedia.org/wiki/Document_Object_Model) je náš framework. Naše motto je [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
-
-2. Nepotřebujeme těžké frameworky (Angular, Bootstrap, jQuery, React, Vue, atd.), které zpomalují načtení  
-(žerou data, výkon i baterii) a omezují vývoj front-endu. Srovnání frameworků pomocí PWA je na [HNPWA](https://hnpwa.com).
-
-3. Komplexní webové aplikace tvoříme modulárně z mnoha zapouzdřených custom elementů s vlastním stromem pomocí [Shadow DOM](https://meowni.ca/posts/shadow-dom/). Jednotlivé elementy pak stahujeme (jen jednou) na základě dané URL, kde jsou třeba pro render na straně klienta. Hlídáme velikost stažených dat do **50 KB** per URL, což nám zajišťuje rychlé načtení stránky na mobilních 3G sítích, viz [PRPL-50](https://github.com/UseWebPlatform/motto-UseWebPlatform#prpl-50).
-
-4. Nepotřebujeme SSR (Server Side Rendering), např. Django, PHP, React, Tomcat, Vue. Kombinace CSR (Client Side Rendering) + [PRPL vzor](https://github.com/UseWebPlatform/motto-UseWebPlatform/blob/master/README.md#8-prpl-pattern) + [CDN](https://cs.wikipedia.org/wiki/Content_delivery_network) řeší rychlé načtení front-endu. Komunikace s back-endem probíhá přes [JSON API](http://jsonapi.org), [GraphQL](http://graphql.org) nebo [REST API](https://cs.wikipedia.org/wiki/Representational_State_Transfer). Příkladem je [JAMstack](https://jamstack.org).
-
-5. Programujeme v čistém jazyce [JavaScript ES6](http://es6-features.org). Jazyk TypeScript a jiné JS preprocessory nepotřebujeme, máme statické typy na úrovni custom elementů. Nepotřebujeme CSS preprocessory (SASS, LESS, Stylus), neboť máme [CSS Properties](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties) a [CSS Mixins](https://www.polymer-project.org/2.0/docs/devguide/custom-css-properties#use-custom-css-mixins). Nepotřebujeme HTML preprocessory (Pug, Handlebars) nebo JS templates, neboť máme [HTML Templates](https://github.com/UseWebPlatform/motto-UseWebPlatform#html-templates).
-
-6. Dodržujeme metodu [progressive enhancement](https://www.zdrojak.cz/clanky/graceful-degradation-vs-progressive-enhancement/) za pomoci [polyfillů](https://www.polymer-project.org/2.0/docs/polyfills) a [pravidla přístupného webu](http://www.pravidla-pristupnosti.cz), s kterýma nám pomáhají již vytvořené Polymer komponenty.
-
-7. Dodržujeme checklist pro custom elementy [The Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki).
-
-8. Tvoříme modulární [PWA aplikace](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) s architekturou [App Shell](https://developers.google.com/web/fundamentals/architecture/app-shell) dle checklistu [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist). 
-
-9. Píšeme [dokumentaci](https://www.polymer-project.org/2.0/docs/tools/documentation) a [testy pomocí Web Component Tester](https://www.polymer-project.org/2.0/docs/tools/tests) pro každý znovu použitelný custom element, který žije ve vlastním git repozitáři s landing a demo stránkou.
-
-10. Jsme na platformě GitHub, kde publikujeme své veřejné znovu použitelné custom elementy pro ostatní. Tyto elementy pak ukládáme do katalogu [webcomponents.org](https://www.webcomponents.org). Notifikace z platformy GitHub hlídáme pomocí aplikace [Octobox](https://octobox.io).
+Naše [desatero pro lepší web](https://github.com/Polymeristi/10) vysvětluje misi projektu Polymer.
 
 ## Co je to Polymer Project?
 
