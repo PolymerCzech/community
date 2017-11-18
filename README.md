@@ -2,7 +2,7 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-- [Desatero rad pro lepší web](#desatero-rad-pro-lepší-web)
+- [#UseWebPlatform](#usewebplatform)
 - [Co je to Polymer Project?](#co-je-to-polymer-project)
   - [Architektonické vzory](#architektonické-vzory)
   - [Hot Reloading](#hot-reloading)
@@ -14,9 +14,9 @@
 - [Zdroje](#zdroje)
 - [FAQ](#faq)
 
-## Desatero rad pro lepší web
+## #UseWebPlatform
 
-Naše [desatero rad pro lepší web](https://github.com/Polymeristi/10) vysvětluje misi projektu Polymer.
+Motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs) obsahuje rady pro lepší web a vysvětluje misi projektu Polymer.
 
 ## Co je to Polymer Project?
 
