@@ -58,7 +58,7 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 
 ### Pravidla diskuse
 
-1. Diskutujeme hlavně o projektu Polymer a na téma [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform).
+1. Diskutujeme hlavně o projektu Polymer a na téma [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs).
 2. Než se zeptáte, vyhledáváním si zjistěte, zda už se to neřešilo.
    - [Slack Search](https://polymer.slack.com/messages/C790AMQKH/search/redux/)
    - [G+ Community Search](https://plus.google.com/u/0/communities/100749807415316706653/s/redux)
