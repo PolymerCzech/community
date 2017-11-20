@@ -16,7 +16,7 @@
 
 ## #UseWebPlatform
 
-Motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs) obsahuje rady pro lepší web a vysvětluje misi projektu Polymer.
+Motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs) obsahuje pravidla pro lepší web a vysvětluje misi projektu Polymer.
 
 ## Co je to Polymer Project?
 
