@@ -20,6 +20,8 @@ Motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-c
 
 ## Co je to Polymer Project?
 
+![Historie Javascript frameworků](https://raw.githubusercontent.com/Polymeristi/readme/master/images/history-of-javascript-frameworks.png)
+
 [Polymer Project](https://github.com/UseWebPlatform/motto-UseWebPlatform#10-polymer-project) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
 
 Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [PWA (Progressive Web Apps)](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) aplikace s plným využitím špičkových funkcí platformy jako jsou [Web Components](https://github.com/UseWebPlatform/motto-UseWebPlatform#2-web-components), [Service Workers](https://github.com/UseWebPlatform/motto-UseWebPlatform#4-service-workers-web-workers) a [HTTP/2](https://github.com/UseWebPlatform/motto-UseWebPlatform#3-http2--server-push--html-imports--es6-modules).
@@ -30,6 +32,10 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [
 
 - [Seznam webových stránek a aplikací vytvořených s Polymerem.](https://github.com/abdonrd/PolymerProjects)
 - [Polymer @ YouTube - Stránka YouTube se skládá z více než 400 webových komponent.](https://www.youtube.com/watch?v=tNulrEbTQf8)
+
+### Webová komponenta
+
+![Web Component](https://raw.githubusercontent.com/Polymeristi/readme/master/images/web-component.png)
 
 ### Architektonické vzory
 
@@ -53,6 +59,8 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 ## Místa kde diskutujeme
 
 - [#polymeristi @ polymer.slack.com](https://polymer.slack.com) - [registrace zde](https://polymer-slack.herokuapp.com)
+  - Je nás už přes 9000...
+  - ![Polymer na Slacku](https://raw.githubusercontent.com/Polymeristi/readme/master/images/slack-polymer.png)
 - [facebook.com/groups/polymeristi](https://www.facebook.com/groups/polymeristi)
 - [plus.google.com/u/0/communities](https://plus.google.com/u/0/communities/100749807415316706653)
 
