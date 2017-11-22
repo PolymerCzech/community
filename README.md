@@ -4,7 +4,7 @@
 
 - [#UseWebPlatform](#usewebplatform)
 - [Co je to Polymer Project?](#co-je-to-polymer-project)
-  - [Architektonické vzory](#architektonické-vzory)
+  - [Webová komponenta](#webová-komponenta)
   - [Hot Reloading](#hot-reloading)
   - [Jak na SEO?](#jak-na-seo)
 - [Místa kde diskutujeme](#místa-kde-diskutujeme)
@@ -28,23 +28,16 @@ Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, kter�
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
-S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [nový Youtube](https://www.youtube.com/new), [Google Earth](https://www.google.com/earth/), Google Play Music, Google Sites, Chrome PDF viewer, Chrome Settings, Electronic Arts, IBM Bluemix console, atd..
+S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [nový Youtube](https://www.youtube.com/new), [Google Earth](https://www.google.com/earth/), Google Play Music, Google Sites, Chrome PDF viewer, Chrome Settings, Electronic Arts, IBM Bluemix console, atd.
 
 - [Seznam webových stránek a aplikací vytvořených s Polymerem.](https://github.com/abdonrd/PolymerProjects)
 - [Polymer @ YouTube - Stránka YouTube se skládá z více než 400 webových komponent.](https://www.youtube.com/watch?v=tNulrEbTQf8)
 
 ### Webová komponenta
 
+Webová komponenta je modul, který se skládá z několika významných vrstev. Tyto moduly komunikují mezi sebou pomocí vzoru [Mediator Pattern](https://github.com/StartPolymer/awesome-polymer/blob/master/README.md#managing-state).
+
 ![Web Component](https://raw.githubusercontent.com/Polymeristi/readme/master/images/web-component.png)
-
-### Architektonické vzory
-
-- [PRPL Pattern](https://www.polymer-project.org/2.0/toolbox/prpl)
-  - [End to End Apps with Polymer (Polymer Summit 2017)](https://www.youtube.com/watch?v=0A-2BhEZiM4)
-- [UniFlow - uni-directional data flow + maintains state of entire application](https://github.com/google/uniflow-polymer)
-  - [Difference between UniFlow and Redux](https://github.com/google/uniflow-polymer/issues/9)
-
-Více informací v sekci [Patterns na stránce Awesome Polymer](https://github.com/StartPolymer/awesome-polymer/blob/master/README.md#patterns).
 
 ### Hot Reloading
 
