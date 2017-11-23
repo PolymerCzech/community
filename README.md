@@ -16,7 +16,7 @@
 
 ## Proč Polymer?
 
-Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které vylepšují stávající webové aplikace a chovají se "stejně" jako nativní aplikace na platformě Android, iOS či Windows (na iOS a Windows není zatím plná podpora). Na platformě [Chrome OS](https://www.google.cz/search?q=Chrome+OS) ([Chromebook](https://www.google.cz/search?q=Chromebook), [Chromebox](https://www.google.cz/search?q=Chromebox), [Chromebase](https://www.google.cz/search?q=Chromebase)) nebo [Chromium OS](https://www.chromium.org/chromium-os) ([CloudReady](https://www.neverware.com)) beží nativně. Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
+Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které vylepšují stávající webové aplikace a chovají se "stejně" jako nativní aplikace na platformě Android, iOS či Windows (na iOS a Windows není zatím plná podpora). Na platformách [Chrome OS](https://www.google.cz/search?q=Chrome+OS) ([Chromebook](https://www.google.cz/search?q=Chromebook), [Chromebox](https://www.google.cz/search?q=Chromebox), [Chromebase](https://www.google.cz/search?q=Chromebase)) a [Chromium OS](https://www.chromium.org/chromium-os) ([CloudReady](https://www.neverware.com)) beží nativně. Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
 
 ## Motto #UseWebPlatform
 
@@ -30,7 +30,7 @@ Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlat
 
 [Polymer Project](https://github.com/StartPolymer/awesome-polymer#general-resources) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
 
-Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí webové platformy jako jsou W3C [Web Components](https://www.webcomponents.org/introduction), W3C [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a IETF [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/).
+Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí webové platformy jako jsou W3C [Web Components](https://www.webcomponents.org/introduction), W3C [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a protokolu IETF [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) od vývojářů z projektu Polymer.
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
