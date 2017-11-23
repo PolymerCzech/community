@@ -24,7 +24,9 @@ Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlat
 
 ## Co je to Polymer Project?
 
-![Historie Javascript frameworků](https://raw.githubusercontent.com/Polymeristi/readme/master/images/history-of-javascript-frameworks.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Polymeristi/readme/master/images/history-of-javascript-frameworks.png" alt="Historie Javascript frameworků" title="Historie Javascript frameworků">
+</p>
 
 [Polymer Project](https://github.com/UseWebPlatform/motto-UseWebPlatform#10-polymer-project) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
 
@@ -41,7 +43,9 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [
 
 Webová komponenta je modul, který se skládá z několika významných vrstev. Tyto moduly komunikují mezi sebou pomocí vzoru [Mediator Pattern](https://github.com/StartPolymer/awesome-polymer#managing-state).
 
-![Web Component](https://raw.githubusercontent.com/Polymeristi/readme/master/images/web-component.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Polymeristi/readme/master/images/web-component.png" alt="Webová komponenta" title="Webová komponenta">
+</p>
 
 ### Jak na SEO?
 
