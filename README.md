@@ -16,7 +16,7 @@
 
 ## Proč Polymer?
 
-Projekt Polymer nám umožňuje tvořit rychlé modulární progresivní webové aplikace (PWA), které se chovají "stejně" jako nativní aplikace na platformě Android, Windows či iOS (na iOS a Windows není zatím plná podpora). Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
+Projekt Polymer nám umožňuje tvořit rychlé modulární [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které se chovají "stejně" jako nativní aplikace na platformě Android, Windows či iOS (na iOS a Windows není zatím plná podpora). Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
 
 ## Motto #UseWebPlatform
 
