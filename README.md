@@ -28,7 +28,7 @@ Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlat
   <img src="https://raw.githubusercontent.com/Polymeristi/readme/master/images/history-of-javascript-frameworks.png" alt="Historie Javascript frameworků" title="Historie Javascript frameworků">
 </p>
 
-[Polymer Project](https://github.com/UseWebPlatform/motto-UseWebPlatform#10-polymer-project) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
+[Polymer Project](https://github.com/StartPolymer/awesome-polymer#general-resources) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
 
 Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí platformy jako jsou [Web Components](https://www.webcomponents.org/introduction), [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/).
 
