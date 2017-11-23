@@ -16,7 +16,7 @@
 
 ## Proč Polymer?
 
-Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které vylepšují stávající webové aplikace a chovají se "stejně" jako nativní aplikace na platformě Android, iOS či Windows (na iOS a Windows není zatím plná podpora). Na platformách [Chrome OS](https://www.google.cz/search?q=Chrome+OS) ([Chromebook](https://www.google.cz/search?q=Chromebook), [Chromebox](https://www.google.cz/search?q=Chromebox), [Chromebase](https://www.google.cz/search?q=Chromebase)) a [Chromium OS](https://www.chromium.org/chromium-os) ([CloudReady](https://www.neverware.com)) beží nativně. Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
+Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které vylepšují stávající webové aplikace a chovají se "stejně" jako nativní aplikace na platformě Android, iOS či Windows (na iOS a Windows není zatím plná podpora). Na platformách [Chrome OS](https://www.google.cz/search?q=Chrome+OS) ([Chromebook](https://www.google.cz/search?q=Chromebook), [Chromebox](https://www.google.cz/search?q=Chromebox), [Chromebase](https://www.google.cz/search?q=Chromebase)) a [Chromium OS](https://www.chromium.org/chromium-os) ([CloudReady](https://www.neverware.com)) beží PWA nativně. Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
 
 ## Motto #UseWebPlatform
 
