@@ -2,10 +2,10 @@
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
-- [#UseWebPlatform](#usewebplatform)
+- [Proč Polymer?](#proč-polymer)
+- [Motto #UseWebPlatform](#motto-usewebplatform)
 - [Co je to Polymer Project?](#co-je-to-polymer-project)
   - [Webová komponenta](#webová-komponenta)
-  - [Hot Reloading](#hot-reloading)
   - [Jak na SEO?](#jak-na-seo)
 - [Místa kde diskutujeme](#místa-kde-diskutujeme)
   - [Pravidla diskuse](#pravidla-diskuse)
@@ -14,9 +14,13 @@
 - [Zdroje](#zdroje)
 - [FAQ](#faq)
 
-## #UseWebPlatform
+## Proč Polymer?
 
-Motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs) obsahuje pravidla pro lepší web a vysvětluje misi projektu Polymer.
+Projekt Polymer nám umožňuje tvořit rychlé modulární progresivní webové aplikace (PWA), které se chovají "stejně" jako nativní aplikace na platformě Android, Windows či iOS (na iOS a Windows není zatím plná podpora). Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
+
+## Motto #UseWebPlatform
+
+Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs) obsahuje pravidla pro lepší web a vysvětluje misi projektu Polymer.
 
 ## Co je to Polymer Project?
 
@@ -24,7 +28,7 @@ Motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-c
 
 [Polymer Project](https://github.com/UseWebPlatform/motto-UseWebPlatform#10-polymer-project) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
 
-Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [PWA (Progressive Web Apps)](https://github.com/UseWebPlatform/motto-UseWebPlatform#5-progressive-web-apps) aplikace s plným využitím špičkových funkcí platformy jako jsou [Web Components](https://github.com/UseWebPlatform/motto-UseWebPlatform#2-web-components), [Service Workers](https://github.com/UseWebPlatform/motto-UseWebPlatform#4-service-workers-web-workers) a [HTTP/2](https://github.com/UseWebPlatform/motto-UseWebPlatform#3-http2--server-push--html-imports--es6-modules).
+Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí platformy jako jsou [Web Components](https://www.webcomponents.org/introduction), [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/).
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
@@ -35,13 +39,9 @@ S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [
 
 ### Webová komponenta
 
-Webová komponenta je modul, který se skládá z několika významných vrstev. Tyto moduly komunikují mezi sebou pomocí vzoru [Mediator Pattern](https://github.com/StartPolymer/awesome-polymer/blob/master/README.md#managing-state).
+Webová komponenta je modul, který se skládá z několika významných vrstev. Tyto moduly komunikují mezi sebou pomocí vzoru [Mediator Pattern](https://github.com/StartPolymer/awesome-polymer#managing-state).
 
 ![Web Component](https://raw.githubusercontent.com/Polymeristi/readme/master/images/web-component.png)
-
-### Hot Reloading
-
-- [StartPolymer Toolbox](https://github.com/StartPolymer/toolbox) - obsahuje tool pro Hot Reloading
 
 ### Jak na SEO?
 
@@ -88,4 +88,5 @@ Hrajeme si s Polymerem v online editoru přes stránku [StartPolymer/playgrounds
 
 ## FAQ
 
-- TBD
+- Hot Reloading?
+  - [StartPolymer Toolbox](https://github.com/StartPolymer/toolbox) - obsahuje tool pro Hot Reloading
