@@ -30,7 +30,7 @@ Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlat
 
 [Polymer Project](https://github.com/StartPolymer/awesome-polymer#general-resources) je open-source projekt veden týmem front-endových vývojářů v rámci organizace Chrome ve společnosti Google.
 
-Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí platformy jako jsou [Web Components](https://www.webcomponents.org/introduction), [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/).
+Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí webové platformy jako jsou W3C [Web Components](https://www.webcomponents.org/introduction), W3C [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a IETF [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/).
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
