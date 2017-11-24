@@ -1,4 +1,4 @@
-# Polymeristi - tvoříme lepší web zítřka (CZ & SK)
+# Polymeristi - tvoříme lepší web zítřka <sup><sub>CZ & SK <a href="https://github.com/Polymeristi/readme/compare/v1.1.0...v1.2.0#files_bucket">v1.2.0</a></sub></sup>
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
@@ -11,7 +11,7 @@
   - [Pravidla diskuse](#pravidla-diskuse)
 - [Novinky, události, srazy](#novinky-události-srazy)
 - [Nabídky práce](#nabídky-práce)
-- [Zdroje](#zdroje)
+- [Jak začít?](#jak-začít)
 - [FAQ](#faq)
 
 ## Proč Polymer?
@@ -33,6 +33,8 @@ Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlat
 Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí webové platformy jako jsou W3C [Web Components](https://www.webcomponents.org/introduction), W3C [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a protokolu IETF [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) od vývojářů z projektu Polymer.
 
 Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
+
+Projekt Polymer nás nepoutá k žádnému full-stack řešení, viz pravidlo [Negenerujte HTML na straně serveru](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#4-negenerujte-html-na-straně-serveru).
 
 S Polymerem je již vytvořeno několik webových stránek a aplikací, např. [nový Youtube](https://www.youtube.com/new), [Google Earth](https://www.google.com/earth/), Google Play Music, Google Sites, Chrome PDF viewer, Chrome Settings, Electronic Arts, IBM Bluemix console, atd.
 
@@ -84,11 +86,11 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 
 Nabídky práce podáváme a hlídáme (přes Watch button) na stránce [Polymeristi/prace](https://github.com/Polymeristi/prace).
 
-## Zdroje
+## Jak začít?
 
-Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
-
-Hrajeme si s Polymerem v online editoru přes stránku [StartPolymer/playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
+1. Hrajeme si s Polymerem v online editoru přes stránku [StartPolymer/playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
+2. Základní šablona pro PWA aplikace se jmenuje [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit).
+3. Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
 ## FAQ
 
