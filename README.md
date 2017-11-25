@@ -18,6 +18,8 @@
 
 Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které se chovají "stejně" jako nativní aplikace na platformě Android, iOS či Windows (na iOS a Windows není zatím plná podpora). Na platformách [Chrome OS](https://www.google.cz/search?q=Chrome+OS) ([Chromebook](https://www.google.cz/search?q=Chromebook), [Chromebox](https://www.google.cz/search?q=Chromebox), [Chromebase](https://www.google.cz/search?q=Chromebase)) a [Chromium OS](https://www.chromium.org/chromium-os) ([CloudReady](https://www.neverware.com)) beží PWA nativně. Jejich progresivní přístup jim umožňuje běžet vlastně kdekoliv. :tada:
 
+Jen čisté HTML, CSS, JS. Polymer staví na standardech, takže nás nenutí se učit nové jazyky jako ostatní frameworky. :tada:
+
 Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
 
 ## Motto #UseWebPlatform
@@ -34,7 +36,7 @@ Naše motto [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlat
 
 Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, které pomůžou vývojářům vytvářet moderní [progresivní webové aplikace (PWA)](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa) s plným využitím špičkových funkcí webové platformy jako jsou W3C [Web Components](https://www.webcomponents.org/introduction), W3C [Service Workers](https://developers.google.com/web/fundamentals/primers/service-workers/) a protokolu IETF [HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/) od vývojářů z projektu Polymer.
 
-Polymer knihovna nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
+Lehká Polymer knihovna rozšiřuje W3C standardy ([syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)) a nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou, např. Angular, Redux.
 
 Projekt Polymer nás nepoutá k žádnému full-stack řešení, viz pravidlo [Negenerujte HTML na straně serveru](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#4-negenerujte-html-na-straně-serveru).
 
