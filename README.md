@@ -20,6 +20,8 @@ Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní we
 
 :sparkles: Jen čisté HTML, CSS, JS. :sparkles: Polymer staví na standardech, takže nás nenutí se učit nové jazyky.
 
+Na projektu Polymer je postaven [nový Youtube](https://www.youtube.com/new), který je díky němu modulární a [rychlejší o 15%](https://youtu.be/tNulrEbTQf8?t=22m2s). :+1:
+
 Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
 
 ## Motto #UseWebPlatform
