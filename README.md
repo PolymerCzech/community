@@ -18,7 +18,7 @@
 
 Projekt Polymer nám umožňuje tvořit **rychlé modulární** [progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/), které se chovají "stejně" jako nativní aplikace na platformě Android, iOS či Windows (na iOS a Windows není zatím plná podpora). Na platformách [Chrome OS](https://www.google.cz/search?q=Chrome+OS) ([Chromebook](https://www.google.cz/search?q=Chromebook), [Chromebox](https://www.google.cz/search?q=Chromebox), [Chromebase](https://www.google.cz/search?q=Chromebase)) a [Chromium OS](https://www.chromium.org/chromium-os) ([CloudReady](https://www.neverware.com)) beží PWA nativně. Jejich progresivní přístup jim umožňuje běžet vlastně kdekoliv. :tada:
 
-Jen čisté HTML, CSS, JS. Polymer staví na standardech, takže nás nenutí se učit nové jazyky jako ostatní frameworky. :tada:
+:sparkles: Jen čisté HTML, CSS, JS :sparkles:. Polymer staví na standardech, takže nás nenutí se učit nové jazyky.
 
 Více informací je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa).
 
@@ -80,7 +80,7 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 4. Diskutujeme věcně. Všechny názory podepíráme argumenty.
 5. Diskutujeme slušně. Žádné osobní útoky. Nováčkům se nesmějeme, naopak je vřele vítáme.
 6. **Nabídky práce** patří na stránku [Polymeristi/prace](https://github.com/Polymeristi/prace).
-7. Příspěvky s vypnutým komentováním budou smazány.
+7. Příspěvky s reklamou nebo vypnutým komentováním budou smazány.
 8. V diskusi si tykáme.
 
 ## Novinky, události, srazy
