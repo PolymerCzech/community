@@ -98,7 +98,8 @@ Nabídky práce podáváme a hlídáme (přes Watch button) na stránce [Polymer
 
 1. Hrajeme si s Polymerem v online editoru přes stránku [StartPolymer/playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
 2. Základní šablona pro PWA aplikace se jmenuje [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit).
-3. Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
+3. Zkoukněte kód demo PWA shopu na stránce [Polymer/shop](https://github.com/Polymer/shop) a demo PWA news na stránce [Polymer/news](https://github.com/Polymer/news).
+4. Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
 ## FAQ
 
