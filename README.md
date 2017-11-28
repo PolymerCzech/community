@@ -1,4 +1,4 @@
-# Polymeristi - tvoříme lepší web zítřka <sup><sub>CZ & SK <a href="https://github.com/Polymeristi/readme/compare/v1.1.0...v1.2.0#files_bucket">v1.2.0</a></sub></sup>
+# Polymeristi - tvoříme lepší web zítřka <sup><sub>CZ & SK <a href="https://github.com/Polymeristi/readme/compare/v1.2.0...v1.3.0#files_bucket">v1.3.0</a> - 2017-11-28</sub></sup>
 
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://help.github.com/articles/about-pull-requests/)
 
@@ -98,7 +98,7 @@ Nabídky práce podáváme a hlídáme (přes Watch button) na stránce [Polymer
 
 1. Hrajeme si s Polymerem v online editoru přes stránku [StartPolymer/playgrounds](https://github.com/StartPolymer/playgrounds). :eyes:
 2. Základní šablona pro PWA aplikace se jmenuje [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit).
-3. Zkoukněte kód demo PWA shopu na stránce [Polymer/shop](https://github.com/Polymer/shop) a demo PWA news na stránce [Polymer/news](https://github.com/Polymer/news).
+3. Zkoukněte kód [demo PWA shopu](https://github.com/Polymer/shop), [demo PWA news](https://github.com/Polymer/news) a stránky [Polymer Summit 2017](https://github.com/Polymer/summit-2017).
 4. Máme kolekci zdrojů [Awesome Polymer](https://github.com/StartPolymer/awesome-polymer).
 
 ## FAQ
