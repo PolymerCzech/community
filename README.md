@@ -40,7 +40,7 @@ Cílem projektu je vytvořit knihovny, nástroje a architektonické vzory, kter�
 
 Lehká Polymer knihovna jen usnadňuje zápis W3C standardů ([syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar)) a nevytváří vlastní vrstvu jako ostatní frameworky, tím ji lze použít s libovolným frameworkem nebo knihovnou (např. Angular, Vue, Redux) díky projektu [Custom Elements Everywhere](https://custom-elements-everywhere.com).
 
-Projekt Polymer nás nepoutá k žádnému full-stack řešení, viz pravidlo [Negenerujte HTML na straně serveru](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#4-negenerujte-html-na-straně-serveru).
+Projekt Polymer nás nepoutá k žádnému full-stack řešení, viz pravidlo [Negenerujte HTML na straně serveru](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#3-negenerujte-html-na-straně-serveru).
 
 Vývojáři z projektu Polymer mají vizi ve webovém designeru, kde si budem moci webovou aplikaci poskládat pomocí již hotových elementů. Prvním prototypem byl [Polymer Designer](https://polymer-designer.appspot.com) ([video](https://www.youtube.com/watch?v=djQh8XKRzRg), [git](https://github.com/polymer/designer)) a druhým [wizzywid](https://polymerlabs.github.io/wizzywid/) ([video](https://www.youtube.com/watch?v=otcmcNY-3pk&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi&index=14), [git](https://github.com/PolymerLabs/wizzywid)).
 
