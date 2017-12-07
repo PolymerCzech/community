@@ -22,6 +22,12 @@ Projekt Polymer nám umožňuje tvořit **rychlé, modulární, udržitelné a �
 
 Na projektu Polymer je postaven např. [nový YouTube](https://www.youtube.com/new), který je díky němu modulární a [rychlejší o 15%](https://www.youtube.com/watch?v=tNulrEbTQf8&index=8&list=PLNYkxOF6rcIDP0PqVaJxqNWwIgvoEPzJi&t=22m2s). :+1:
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eG0ILA2k5qo&list=PLNYkxOF6rcICUD5nBfRdAR6Fveosnqa5m&index=13" target="_blank"><img src="https://raw.githubusercontent.com/Polymeristi/readme/master/images/pwa-vs-native-apps.png" alt="PWA vs nativní aplikace" title="PWA vs nativní aplikace"></a>
+</p>
+
+PWA aplikace v produkci ukazují, že mají význam, viz statistiky [PWA Stats](https://www.pwastats.com). :+1:
+
 Více informací o PWA je na stránce [#UseWebPlatform](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs#8-progresivní-webové-aplikace-pwa). :eyes:
 
 ## Motto #UseWebPlatform
