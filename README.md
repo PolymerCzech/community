@@ -65,10 +65,10 @@ Více informací v sekci [Polymer is SEO-friendly na stránce Awesome Polymer](h
 
 ## Místa kde diskutujeme
 
+- [**facebook**.com/groups/polymeristi](https://www.facebook.com/groups/polymeristi)
 - [#polymeristi @ polymer.slack.com](https://polymer.slack.com) - [registrace zde](https://polymer-slack.herokuapp.com)
   - Je nás už přes 9000...
   - ![Polymer na Slacku](https://raw.githubusercontent.com/Polymeristi/readme/master/images/slack-polymer.png)
-- [facebook.com/groups/polymeristi](https://www.facebook.com/groups/polymeristi)
 - [plus.google.com/u/0/communities](https://plus.google.com/u/0/communities/100749807415316706653)
 
 ### Pravidla diskuse
