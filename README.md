@@ -107,8 +107,8 @@ Tykání nenutíme, ale připravte se na to, že vám v diskusi tykat budou.
 
 ## Novinky, události, srazy
 
-- [twitter.com/Polymeristi](https://twitter.com/Polymeristi)
 - [facebook.com/Polymeristi](https://www.facebook.com/Polymeristi)
+- [twitter.com/Polymeristi](https://twitter.com/Polymeristi)
 
 ## Nabídky práce
 
