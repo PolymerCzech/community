@@ -16,7 +16,7 @@
 
 ## Proč Polymer?
 
-Projekt Polymer a kombinace technologií HTTP/2, W3C Service Workers, W3C HTML Templates, W3C Custom Elements, W3C CSS Custom Properties, W3C Shadow DOM, JavaScript ES6 Modules a vzoru [PRPL-50](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs/blob/master/README.md#prpl-50) nám umožňují tvořit **rychlé, silně modulární, dlouhodobě udržitelné a čitelné pro většinu vývojářů** SPA nebo PWA aplikace i pro pomalé a nestabilní sítě.
+Projekt Polymer, kombinace technologií HTTP/2, W3C Service Workers, W3C HTML Templates, W3C Custom Elements, W3C CSS Custom Properties, W3C Shadow DOM, JavaScript ES6 Modules a vzor [PRPL-50](https://github.com/UseWebPlatform/motto-UseWebPlatform-cs/blob/master/README.md#prpl-50) nám umožňují tvořit **rychlé, silně modulární, dlouhodobě udržitelné a čitelné pro většinu vývojářů** SPA nebo PWA aplikace i pro pomalé a nestabilní sítě.
 
 [Progresivní webové aplikace (PWA)](https://developers.google.com/web/progressive-web-apps/) jsou spolehlivé, rychlé a vytváří dojem plnohodnotné aplikace. Nevyžadují instalaci a centrální app store pro aktualizace a dohledatelnost.
 
